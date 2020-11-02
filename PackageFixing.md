@@ -339,7 +339,7 @@ If the only changes you made are within the debian subdir, you don't need a patc
 
 On the other hand, if you've made changes to the upstream code (anything outside of the debian directory), you'll need to generate a patch in debian/patches.
 
-See [Making a Patchfile](DebianPatch)
+See [Making a Patchfile](DebianPatch.md)
 
 
 #### Step 5: Commit the patch
